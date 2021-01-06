@@ -1,0 +1,31 @@
+/* CSS Document */ 
+#sach{font-family:vivaldi; font-size:150%}
+h1{color:black; font-family:vivaldi;
+    text-align:center;font-size:400%}
+h2{font-family:vivaldi;font-size:300%}    
+p{text-align:justify}
+img{
+    background-color: lightgrey;
+    border: 22px solid grey;
+    padding: 25px;
+    margin: 25px}
+
+body {
+    background-image: url("sachovnica.jpg") 
+}
+table,th,td{background-color: tan;
+border: 2px solid black}
+th {
+  text-align: center;
+}
+td {
+  text-align: center
+}
+ul{
+  list-style-type: square;}
+a{color: brown }
+a:hover{color: blue}
+
+p.cervena{color:red}
+p.velka{font-size:125%}
+tr+tr+tr{color:blue}
